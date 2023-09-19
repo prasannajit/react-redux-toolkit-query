@@ -1,0 +1,78 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Elsie Price",
+      "id": 3
+    },
+    {
+      "name": "Harold Strosin",
+      "id": 4
+    },
+    {
+      "name": "Angelica Crona",
+      "id": 5
+    }
+  ],
+  "albums": [
+    {
+      "id": 1,
+      "userId": 1,
+      "title": "La La land"
+    },
+    {
+      "userId": 1,
+      "title": "Fantastic Fresh Salad",
+      "id": 2
+    },
+    {
+      "userId": 1,
+      "title": "Luxurious Cotton Fish",
+      "id": 3
+    },
+    {
+      "userId": 1,
+      "title": "Luxurious Cotton Car",
+      "id": 4
+    },
+    {
+      "userId": 1,
+      "title": "Gorgeous Fresh Salad",
+      "id": 5
+    },
+    {
+      "userId": 1,
+      "title": "Rustic Frozen Keyboard",
+      "id": 6
+    },
+    {
+      "userId": 1,
+      "title": "Generic Metal Hat",
+      "id": 7
+    },
+    {
+      "userId": 1,
+      "title": "Gorgeous Rubber Table",
+      "id": 8
+    },
+    {
+      "userId": 1,
+      "title": "Luxurious Metal Pants",
+      "id": 9
+    },
+    {
+      "userId": 1,
+      "title": "Intelligent Bronze Chicken",
+      "id": 10
+    },
+    {
+      "userId": 1,
+      "title": "Handmade Cotton Salad",
+      "id": 11
+    }
+  ],
+  "photos": []
+}
